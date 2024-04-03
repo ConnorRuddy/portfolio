@@ -1,0 +1,21 @@
+.showroom-container{
+  width: 100vw;
+  position:relative;
+}
+
+.showroom-background{
+  width: 100vw;
+  height: 100vh;
+  /* object-fit: fill; */
+}
+
+.sky{
+  width: 100vw;
+  height: 100vh;
+  object-fit: fill;
+}
+.showroom-title{
+  text-align: center;
+  color: #3e3c3c;
+  margin-bottom: 3%;
+}

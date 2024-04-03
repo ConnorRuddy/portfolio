@@ -1,0 +1,36 @@
+
+
+[{
+  "title": "Sou Servant",
+  "imageSrc":"souservant.png",
+  "description":"Throw that old binder away, Sou servant allow admin users with the ability to add, edit, and delete items. In buiilding this web-based application, I displayed a working knowledge of HTML, CSS, JavaScript, React.JS, Node.JS, MongoDB, JWT, and RESTful methods to develop frontend design, client-side validations, and the API framework.",
+  "skills":["HTML", "CSS", "Javascript", "React", "Node","Express", "JWT", "Bcrypt"],
+  "source":"https://github.com/ConnorRuddy"
+
+},
+{
+  "title": "Mock Surf Site",
+  "imageSrc":"mock.png",
+  "description":"Developed a platform enabling users to browse, select, and purchase items. In building this web-based application, I displayed a working knowledge of HTML, CSS, JavaScript, React.JS, Node.JS, MongoDB, and RESTful methods to develop frontend design, client-side validations, and the API framework.",
+  "skills":["HTML", "CSS", "Javascript", "React", "Node", "Express"],
+  "source":"https://github.com/ConnorRuddy"
+
+},
+{
+  "title": "Three One Five Logistics",
+  "imageSrc":"315.png",
+  "description":"Developed a platform enabling users to browse, select, and purchase items. In building this web-based application, I displayed a working knowledge of HTML, CSS, JavaScript, React.JS, Node.JS, MongoDB, and RESTful methods to develop frontend design, client-side validations, and the API framework.",
+  "skills":["HTML", "CSS", "Javascript", "React"],
+  "source":"https://github.com/ConnorRuddy"
+
+},
+{
+  "title": "Kubotans",
+  "imageSrc":"kubotans.png",
+  "description":"Developed a platform enabling users to browse, select, and purchase items. In building this web-based application, I displayed a working knowledge of HTML, CSS, JavaScript, React.JS, Node.JS, MongoDB, and RESTful methods to develop frontend design, client-side validations, and the API framework.",
+  "skills":["HTML", "CSS", "Javascript", "React"],
+  "source":"https://github.com/ConnorRuddy"
+
+}
+
+]

@@ -1,0 +1,23 @@
+
+.social-container{
+  display: flex;
+  
+}
+
+.social-img{
+  padding: 5px;
+  height: 40px;
+  width: 40px;
+}
+
+#linkedin{
+  color: #0e76a8;
+}
+
+#github{
+  color: #6e5494;
+}
+
+#email{
+  color: #c71610;
+}

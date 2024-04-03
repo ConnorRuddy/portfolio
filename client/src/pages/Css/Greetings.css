@@ -1,0 +1,43 @@
+
+.greeting-img{
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  }
+  
+  .overlay{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color:rgba(62, 60, 60, 0.44);
+  }
+  
+  .greeting-text{
+    position: absolute;
+    top: 25%;
+    left:3%;
+    color: rgb(204, 225, 243);
+    font-size: 100px;
+    width: 50%;
+    font-weight: 900;
+    z-index: 2;
+  }
+  
+  .last-name{
+    position: absolute;
+    top: 160px;
+    left: 10px;
+  }
+  
+  .subtitle{
+    position: absolute;
+    top: 345px;
+    left: 20px;
+    color:rgba(230, 209, 116, 0.822);
+    font-weight: 900;
+  }
+  

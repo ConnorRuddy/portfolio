@@ -1,0 +1,17 @@
+
+.project-container{
+  position: absolute;
+  top: 5%;
+}
+.project-content{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.showroom-title{
+  margin-top: 15px;
+  font-size: 60px;
+  color: #3e3c3c;
+}
